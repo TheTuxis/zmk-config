@@ -1,2 +1,1 @@
 # ZMK config
-
